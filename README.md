@@ -16,7 +16,7 @@ To develop a model that accurately classifies customer interest in purchasing ve
 - ⚙️ Built end-to-end pipeline: data preprocessing, stratified sampling, feature encoding, model training.
 - 🧠 Trained Logistic Regression, Extra Trees, and **Random Forest** (best performance).
 - ⚖️ Addressed severe class imbalance using **stratified sampling** and data balancing techniques.
-- 📈 Achieved **100% accuracy and F1-score** using ensemble methods.
+- 📈 Achieved **78% accuracy and F1-score** using ensemble methods.
 - 📊 Enhanced targeting strategies by identifying high-likelihood customer segments.
 
 ### 🧰 Tools & Technologies
